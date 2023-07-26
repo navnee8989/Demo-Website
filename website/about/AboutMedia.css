@@ -1,0 +1,50 @@
+@media (min-width:400px) {
+    .conteiner{
+        width: 400px;
+        margin: 0 auto; 
+    }
+    .links{display: none;}
+    .btn{display: none;}
+    .logo{
+        width: 100%;
+        margin: 0 auto;
+        padding-left: 60px;
+    }
+
+    /* section one */
+    .head h1{
+            font-size: 70px;
+    }
+    .p p{
+        font-size: 20px;
+    }
+
+
+    /* section two */
+    .sec-two-conteiner{
+        width: 400px;
+        margin: 0 auto;
+    }
+    .sec-two-data{
+        flex-direction: column;
+        justify-content: center;
+
+    }
+    .aside-one{
+        width: 100%;
+    }
+   .aside-one-span{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 30px;
+   }
+   .aside-one h1{
+        text-align: center;
+   }
+    .aside-two{
+        width: 100%;
+    }
+    .aside-two img{
+        width: 100%;
+    }
+}

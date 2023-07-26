@@ -1,0 +1,28 @@
+@media (min-width:300px) {
+    .container{
+        width: 300px;
+    }
+    .links{
+        display: none;
+    }
+    .anchor{
+        position: relative;
+        right: 22px;
+        padding-right: 10px;
+    }
+    .sec-one-data-btn{
+       display: flex;
+       flex-direction: column;
+       margin: 20px;
+       width: 60%;
+       margin: 0 auto;
+    }
+    .col-25{
+        width: 100%;
+        
+    }
+    .sec-two-data{
+      flex-direction: column;
+      display: block;
+    }
+}
